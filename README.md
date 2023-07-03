@@ -1,6 +1,8 @@
-# Rodando o projeto
+# Tasklist simples
 
-Para rodar o projeto, baixe as dependencias com o comando `npm i`
+  O projeto aborda uma Tasklist com react e inclusão, alteração e exclusão de dados com API local
+
+# Rodando o projeto
 
 Em seguida crie dois terminais separados e digite os códigos abaixo:
 
