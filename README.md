@@ -1,6 +1,6 @@
 # Tasklist simples
 
-  O projeto aborda uma Tasklist com react e API local para inclusão, alteração e exclusão de dados.
+  O projeto aborda uma Tasklist com `react` e `API local` para inclusão, alteração e exclusão de dados.
 
 # Rodando o projeto
 
