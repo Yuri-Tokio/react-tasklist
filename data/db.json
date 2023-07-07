@@ -1,22 +1,3 @@
 {
-  "tasklists": [
-    {
-      "id": 0.6231265405851212,
-      "title": "Criar repositório local no github",
-      "time": "0.5",
-      "done": true
-    },
-    {
-      "id": 0.061488046581122724,
-      "title": "Commitar alterações",
-      "time": "0.3",
-      "done": true
-    },
-    {
-      "id": 0.15138670381857255,
-      "title": "Verificar se a API está rodando corretamente",
-      "time": "1",
-      "done": false
-    }
-  ]
+  "tasklists": []
 }
