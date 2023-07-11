@@ -2,6 +2,9 @@
 
   O projeto aborda uma Tasklist com `react` e `API local` para inclusão, alteração e exclusão de dados.
 
+# Baixando dependências
+  npm i
+
 # Rodando o projeto
 
 Inicialmente, crie dois terminais separados, (API e APlicação) e digite os códigos abaixo:
